@@ -1,0 +1,1 @@
+{"enabled":true,"field_aliases":{"closing_price":"close"},"symbol_map":{"DEMO":"SIM"},"reason":"Explicit vendor column and instrument mapping; no unit or frequency conversion"}
