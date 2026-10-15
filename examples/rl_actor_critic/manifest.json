@@ -1,0 +1,1 @@
+{"actions":["target"],"config":{"seed":1729},"contract_version":"1.0","description":"Softmax actor and temporal-difference state-value critic","fields":["open","high","low","close"],"granularity":"1m","id":"rl_actor_critic","kind":"rl","lookback":8,"reference":"Original educational adaptation; algorithm sources and limits: docs/STRATEGIES.md","symbols":["SIM"]}

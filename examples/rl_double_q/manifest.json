@@ -1,0 +1,1 @@
+{"actions":["target"],"config":{"seed":1729},"contract_version":"1.0","description":"Double Q-learning with separated selection/evaluation","fields":["bid","ask","bids","asks"],"granularity":"tick","id":"rl_double_q","kind":"rl","lookback":8,"reference":"Original educational adaptation; algorithm sources and limits: docs/STRATEGIES.md","symbols":["SIM"]}

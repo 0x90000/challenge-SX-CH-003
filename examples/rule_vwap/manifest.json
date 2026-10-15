@@ -1,0 +1,1 @@
+{"actions":["target"],"config":{"seed":1729},"contract_version":"1.0","description":"Rolling volume-weighted mean reversion","fields":["close","volume"],"granularity":"1m","id":"rule_vwap","kind":"rule","lookback":8,"reference":"Original educational adaptation; algorithm sources and limits: docs/STRATEGIES.md","symbols":["SIM"]}

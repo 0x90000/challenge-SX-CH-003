@@ -1,0 +1,1 @@
+{"actions":["target"],"config":{"seed":1729},"contract_version":"1.0","description":"Online mistake-driven perceptron classifier","fields":["open","high","low","close","volume"],"granularity":"1d","id":"sl_perceptron","kind":"supervised","lookback":8,"reference":"Original educational adaptation; algorithm sources and limits: docs/STRATEGIES.md","symbols":["SIM"]}

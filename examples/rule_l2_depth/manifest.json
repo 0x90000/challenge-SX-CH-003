@@ -1,0 +1,1 @@
+{"actions":["target"],"config":{"seed":1729},"contract_version":"1.0","description":"Multi-level depth imbalance allocation","fields":["bid","ask","bids","asks"],"granularity":"tick","id":"rule_l2_depth","kind":"rule","lookback":8,"reference":"Original educational adaptation; algorithm sources and limits: docs/STRATEGIES.md","symbols":["SIM"]}

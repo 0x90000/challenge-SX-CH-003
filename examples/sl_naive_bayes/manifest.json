@@ -1,0 +1,1 @@
+{"actions":["target"],"config":{"seed":1729},"contract_version":"1.0","description":"Gaussian class-conditional order-book classifier","fields":["bid","ask","bid_size","ask_size"],"granularity":"tick","id":"sl_naive_bayes","kind":"supervised","lookback":8,"reference":"Original educational adaptation; algorithm sources and limits: docs/STRATEGIES.md","symbols":["SIM"]}

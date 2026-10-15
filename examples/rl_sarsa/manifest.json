@@ -1,0 +1,1 @@
+{"actions":["target"],"config":{"seed":1729},"contract_version":"1.0","description":"On-policy SARSA with sampled next action","fields":["open","close","volume"],"granularity":"1m","id":"rl_sarsa","kind":"rl","lookback":8,"reference":"Original educational adaptation; algorithm sources and limits: docs/STRATEGIES.md","symbols":["SIM"]}

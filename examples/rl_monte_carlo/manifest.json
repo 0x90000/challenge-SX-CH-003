@@ -1,0 +1,1 @@
+{"actions":["target"],"config":{"seed":1729},"contract_version":"1.0","description":"Every-visit Monte Carlo return averaging","fields":["open","close"],"granularity":"1d","id":"rl_monte_carlo","kind":"rl","lookback":8,"reference":"Original educational adaptation; algorithm sources and limits: docs/STRATEGIES.md","symbols":["SIM"]}

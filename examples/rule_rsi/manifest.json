@@ -1,0 +1,1 @@
+{"actions":["market"],"config":{"seed":1729},"contract_version":"1.0","description":"RSI contrarian entry with neutral-band holding","fields":["close"],"granularity":"1d","id":"rule_rsi","kind":"rule","lookback":8,"reference":"Original educational adaptation; algorithm sources and limits: docs/STRATEGIES.md","symbols":["SIM"]}
